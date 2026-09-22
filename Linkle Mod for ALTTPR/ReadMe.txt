@@ -11,6 +11,8 @@ To use pink hair, you should be able to just apply the pink hair patch from norm
 
 This is purely cosmetic and does not replace text, but there aren't many instances in the game where you're refered to as explicitly male so it shouldn't be that much of a problem.
 
+Mod Github: https://github.com/b3rryboo/Linkle-Mod-for-A-Link-To-The-Past-Redux
+
 -----------------------------------------------
 
 ALTTP: REDUX CREDITS:
